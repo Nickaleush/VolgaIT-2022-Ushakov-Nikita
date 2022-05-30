@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VolgaITUshakov</string>
+    <string name="stock_symbol">Stock Symbol</string>
+    <string name="stock_cost">Stock Cost</string>
+    <string name="default_stock">Stock №1</string>
+    <string name="defaultCost">Cost№1</string>
+</resources>

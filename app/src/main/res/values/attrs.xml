@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaskedEditText">
+        <attr name="mask" format="string" />
+        <attr name="placeholder" format="string" />
+    </declare-styleable>
+    <declare-styleable name="ViewWithEdges">
+        <attr name="enableTopEdge" format="boolean"/>
+        <attr name="enableBottomEdge" format="boolean"/>
+        <attr name="enableMarginBottomLine" format="boolean"/>
+        <attr name="enableMarginTopLine" format="boolean"/>
+    </declare-styleable>
+
+</resources>
